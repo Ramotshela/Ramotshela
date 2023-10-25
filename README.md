@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]([https://rishavchanda.io](https://wallpapercave.com/wp/wp1828972.jpg))
 <h1 align="center">Hi 👋, I'm Rammakoa Samuel Ramotshela</h1>
-<h3 align="center">A passionate frontend developer from South Africa</h3>
+<h3 align="center">Aspiring software developer from South Africa</h3>
 <img align="right" alt="team work" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramotshela&label=Profile%20views&color=0e75b6&style=flat" alt="ramotshela" /> </p>
