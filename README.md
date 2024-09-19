@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramotshela" alt="ramotshela" /></a> </p>
 
-- 🌱 I’m currently learning **flask,javascript,data science**
+- 🌱 I’m currently learning **javascript,data science**
 
-- 💬 Ask me about **HTML,CSS,PYTHON,JAVASCRIPT,SQL**
+- 💬 Ask me about **HTML,CSS,PYTHON,JAVASCRIPT,SQL,NodeJS,ReactJS**
 
 - 📫 How to reach me **rammakwaramotshela1@gmail.com**
 
