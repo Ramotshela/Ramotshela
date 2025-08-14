@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramotshela" alt="ramotshela" /></a> </p>
 
-- 🌱 I’m currently learning **javascript,data science**
-
-- 💬 Ask me about **HTML,CSS,PYTHON,JAVASCRIPT,SQL,NodeJS,ReactJS**
-
-- 📫 How to reach me **rammakwaramotshela1@gmail.com**
-
-- ⚡ Fun fact **I love tennis**
+- My current tech stack:
+- TypeScript
+- Angular
+- C# Asp .Net
+- Postgres
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
