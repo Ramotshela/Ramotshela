@@ -10,6 +10,7 @@ I specialise in building and stabilising applications that are reliable, scalabl
 - **Data:** PostgreSQL, MySQL, MongoDB
 
 ### Featured projects
+- [learnai-platform](https://github.com/Ramotshela/learnai-platform) — AI-powered adaptive learning platform with a personalised AI tutor and learning-gap detection
 - [school-management-system](https://github.com/Ramotshela/school-management-system) — Node/Express + Socket.io school management system with a client and server app
 - [Price-comparison](https://github.com/Ramotshela/Price-comparison) — fullstack app that scrapes and compares product prices, with a Node backend and client
 
