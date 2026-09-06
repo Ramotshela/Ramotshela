@@ -7,7 +7,9 @@ I specialise in building and stabilising applications that are reliable, scalabl
 - **Languages:** TypeScript, JavaScript, C#, Java, Python, SQL
 - **Frontend:** Angular, NgRx
 - **Backend:** ASP.NET, Spring Boot, Node.js
+- **AI:** LLM-integrated apps, adaptive learning systems
 - **Data:** PostgreSQL, MySQL, MongoDB
+- **DevOps/Cloud:** Docker, Azure
 
 ### Featured projects
 - [learnai-platform](https://github.com/Ramotshela/learnai-platform) — AI-powered adaptive learning platform with a personalised AI tutor and learning-gap detection
