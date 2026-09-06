@@ -9,6 +9,7 @@ I specialise in building and stabilising applications that are reliable, scalabl
 - **Backend:** ASP.NET, Spring Boot, Node.js
 - **AI:** LLM-integrated apps, adaptive learning systems
 - **Data:** PostgreSQL, MySQL, MongoDB
+- **Web Scraping:** Python (BeautifulSoup, Requests, Pyppeteer), PHP
 - **DevOps/Cloud:** Docker, Azure
 
 ### Featured projects
