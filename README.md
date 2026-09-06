@@ -5,7 +5,7 @@ I specialise in building and stabilising applications that are reliable, scalabl
 
 ### Tech stack
 - **Languages:** TypeScript, JavaScript, C#, Java, Python, SQL
-- **Frontend:** Angular, NgRx
+- **Frontend:** Angular, NgRx, React
 - **Backend:** ASP.NET, Spring Boot, Node.js
 - **AI:** LLM-integrated apps, adaptive learning systems
 - **Data:** PostgreSQL, MySQL, MongoDB
