@@ -10,10 +10,7 @@ I specialise in building and stabilising applications that are reliable, scalabl
 - **Data:** PostgreSQL, MySQL, MongoDB
 
 ### Featured projects
-- [strive_api](https://github.com/Ramotshela/strive_api) — backend for the Strive project
-- [strive_web](https://github.com/Ramotshela/strive_web) — frontend for the Strive project
 - [school-management-system](https://github.com/Ramotshela/school-management-system) — Node/Express + Socket.io school management system with a client and server app
-- [springboot](https://github.com/Ramotshela/springboot) — Spring Boot + MongoDB API for managing movies
 - [Price-comparison](https://github.com/Ramotshela/Price-comparison) — fullstack app that scrapes and compares product prices, with a Node backend and client
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ramotshela&show_icons=true&theme=dark&hide_border=true" alt="Ramotshela's GitHub stats" />
