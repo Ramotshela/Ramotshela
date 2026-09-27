@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rammakoa Samuel Ramotshela</h1>
 <h3 align="center">Software Developer based in Gauteng, South Africa</h3>
 
-I specialise in building and stabilising applications that are reliable, scalable, and designed for real-world impact — across fullstack development, from APIs to the interfaces on top of them.
+I specialise in building and stabilising applications that are reliable, scalable, and designed for real-world impact across fullstack development, from APIs to the interfaces on top of them.
 
 ### Tech stack
 - **Languages:** TypeScript, JavaScript, C#, Java, Python, SQL
