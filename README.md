@@ -25,16 +25,6 @@ I build and stabilise applications that are reliable, scalable and designed for 
 | AI | LLM applications, RAG, agents |
 | DevOps | Docker, Azure, CI/CD |
 
-## Selected Projects
-
-| Project | Description |
-|---|---|
-| **SiteLens** | Automated website analysis that combines deterministic checks with AI-generated recommendations. |
-| **University Application Assistant** | Context-aware help system that guides students through the application process. |
-| **LearnAI** | Adaptive learning platform with AI tutoring and knowledge tracing. |
-| **Price Comparison** | Full-stack scraping and price comparison tool. |
-| **WhatsApp Order Hub** *(concept)* | Order management automation for small businesses. |
-
 ## How I Approach AI Systems
 
 Every AI feature I build follows the same controlled flow:
