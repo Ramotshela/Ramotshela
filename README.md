@@ -20,7 +20,7 @@ I build and stabilise applications that are reliable, scalable and designed for 
 | Area | Technologies |
 |---|---|
 | Backend | C#, ASP.NET Core, Java, Spring Boot |
-| Data | PostgreSQL, Oracle |
+| Data | PostgreSQL |
 | Frontend | Angular, React, TypeScript |
 | AI | LLM applications, RAG, agents |
 | DevOps | Docker, Azure, CI/CD |
