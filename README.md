@@ -4,6 +4,7 @@
 
 I build and stabilise applications that are reliable, scalable and designed for real-world impact. My day job is enterprise software for higher education. Outside of it, I explore how AI can be engineered into production systems responsibly.
 
+[![Website](https://img.shields.io/badge/Website-craftsman--ramotshela.netlify.app-00C7B7?logo=netlify&logoColor=white)](https://craftsman-ramotshela.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Ramotshela-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-ramotshela-3b569420a)
 
 ---
@@ -51,5 +52,8 @@ System design · Distributed systems · Application security
 ## Let's Connect
 
 I'm open to collaboration in AI engineering, developer tools, automation and educational technology.
+
+- **Portfolio:** [craftsman-ramotshela.netlify.app](https://craftsman-ramotshela.netlify.app/)
+- **LinkedIn:** [Samuel Ramotshela](https://www.linkedin.com/in/samuel-ramotshela-3b569420a)
 
 > *Build software that works.*
